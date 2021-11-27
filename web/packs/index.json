@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "LongNeck.json"
+  ],
+  "homeserver_url": "https://matrix.local.isnackycracky.de"
+}
